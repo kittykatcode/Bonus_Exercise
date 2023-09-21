@@ -1,0 +1,3 @@
+[{"question_text": "What is the best", "alternatives": ["me", "you", "someone", "stupid"], "correct_ans":1},
+{"question_text": "what is the best color", "alternatives": ["pink", "yellow", "black","brown"], "correct_ans":3 },
+{"question_text": "what is the soso bobo", "alternatives": ["ee", "oo", "pp","ffoo"], "correct_ans":1}]
